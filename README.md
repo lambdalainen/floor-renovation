@@ -19,9 +19,6 @@ idea to isolate the work area.
 
 ## Remove the skirting board
 
-It was anticipated that dust will be generated during the process, so it was a good
-idea to isolate the work area.
-
 ![Remove the skirting board](img/2_remove_skirting_board.jpg)
 
 A pry bar might be useful here.
@@ -40,3 +37,47 @@ The existing floor is made from soft plastic and is easy to rip away.
 After that, the cork underlayment is exposed.
 
 ![Rip away the existing floor](img/3_rip_away_existing_floor2.jpg)
+
+## Remove the cork underlayment
+
+This is without a doubt the most difficult and challenging step, because the cork
+underlayment is glued to the levelling compound. I tried different methods, for example,
+with a dedicated manual tool like this:
+
+![Remove cork](img/4_remove_cork4.jpg)
+
+But it did not work as expected. The best way to remove the cork layer is using a hammer drill
+paired with a chisel bit that is flat on one side.
+
+![Remove cork](img/4_remove_cork.jpg)
+![Remove cork](img/4_remove_cork2.jpg)
+
+It's best to apply some downward force so that the glue is removed as well, exposing the
+levelling compound.
+
+<p align="center">
+  <img src="https://github.com/lambdalainen/floor-renovation/raw/master/img/video.gif" />
+</p>
+
+The process is labour-intensive:
+
+![Remove cork](img/4_remove_cork3.jpg)
+
+And the result is messy:
+
+![Remove cork](img/4_remove_cork5.jpg)
+![Remove cork](img/4_remove_cork6.jpg)
+
+## Grind the floor
+
+There are different ways to remove the residue glue. The easiest way is to rent a floor
+grinder:
+
+![Remove cork](img/5_floor_grinder.jpg)
+
+Here comes my first mistake: it is absolutely recommended to also rent a dust extractor
+to be used together with the floor grinder, otherwise, it gets very very dusty!
+
+The result after grinding:
+
+![Remove cork](img/5_floor_grinder2.jpg)
