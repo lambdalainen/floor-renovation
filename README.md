@@ -196,6 +196,73 @@ barrier tape.
 
 ![Vapor barrier](img/10_tape.jpg)
 
-## Lay the vinyl planks
+## Before laying the vinyl planks
 
 A dedicated vinyl cutter is highly recommended.
+
+![Vinyl cutter](img/11_vinyl_cutter.jpg)
+
+Before laying the vinyl planks, measure the area accurately, and do some
+planning. The manufacturer usually provides a recommendation for the minimum
+distance between the seams of two adjacent rows, so you should follow that.
+
+Remember that when you finish one row, you can often use the leftover piece to
+start another row. However, never start or end a row with a very short piece. I
+made sure that all my pieces are at least 40cm long.
+
+![Planning](img/11_planning.png)
+
+You might need to trim the door jamb to accomodate the new floor. This can be done
+with an oscillating multitool and a saw blade.
+
+![Planning](img/11_trim_door_jamb.png)
+
+## Laying the vinyl planks
+
+Finally, we can start laying the vinyl planks. These are from Parador and made
+in Germany, costing roughly 40 EUR per square meter. They come with underlayment
+already attached on the back side, so no additional underlayment is needed.
+
+I started by installing a piece on a location that requires a special cut (done with
+a multitool).
+
+![Laying](img/11_special_cut.png)
+
+Then start from this row and extend it to the wall (normally you want to start
+from the wall so mine is a special case). We lay the planks in the direction of
+sunlight.
+
+Spacer are inserted along the wall to leave an expansion gap for the floor
+under temperature variations.
+
+![Laying](img/11_spacer.png)
+
+Use a mallet and a dedicated tapping block. The edge of the vinyl planks are delicate
+so one mustn't use too much force. Basically, "tap tap" instead of "knock knock".
+
+![Laying](img/11_knock_knock.png)
+
+Use a pull bar to tap on the edge
+
+![Laying](img/11_knock_edge.png)
+
+Almost done!
+
+![Laying](img/11_almost_done.png)
+
+## Install new skirting boards
+
+The Parador skirting boards comes with mounting clips. These should be nailed to
+the wall but I simply glued them with a glue gun.
+
+![Laying](img/12_skirting_board.png)
+
+Then clip on the skirting boards:
+
+![Laying](img/12_skirting_board2.png)
+![Laying](img/12_skirting_board3.png)
+
+## Finished floor
+
+![Laying](img/13_finished_floor.png)
+![Laying](img/13_finished_floor2.png)
