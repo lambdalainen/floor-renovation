@@ -19,14 +19,19 @@ There are four layers visible in this picture:
 3. Levelling compound
 4. Concrete subfloor
 
-The cork underlayment is glued to the levelling compound, which is a major source
-of pain in the subsequent process.
-
-Our plan is to
+The cork underlayment is glued to the levelling compound (visible in the picture), which is a major source
+of pain in the subsequent process. Our plan is to:
 1. Remove the top layer and the cork underlayment (since the damaged area already has
 these two layers removed)
 2. Level the ground
 3. Lay vinyl plank flooring
+
+## Asbestos check
+
+The house was built in the early 80s and there is a small probability that materials containing
+asbestos were used, e.g. in the glue. I thought it was a must to get this checked.
+
+![Asbestos](img/0_asbestos.png)
 
 ## Isolate the work area
 
