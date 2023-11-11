@@ -110,7 +110,7 @@ Now we can start levelling the ground.
 
 ## Prime the surface
 
-Before levelling the ground, we must prime the surface so that the new self levelling compound
+Before levelling the ground, we must prime the surface so that the new self-levelling compound
 adheres to the existing surface.
 
 ![Primer](img/6_primer.jpg)
@@ -124,3 +124,12 @@ Allow it to dry for two to four hours. After priming, the surface looks glossy.
 
 ![Primer](img/6_primer3.jpg)
 
+## Define the perimeter of the levelling area
+
+The self-levelling compound is very liquidy and it is necessary to completely seal the
+boundary of the levelling area so that it does not flow e.g. under the existing cupboard.
+
+The expansion foam (insulation foam) was used to seal the boundary:
+
+![Expansion foam](img/7_expansion_foam.jpg)
+![Expansion foam](img/7_expansion_foam2.jpg)
