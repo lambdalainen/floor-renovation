@@ -133,3 +133,48 @@ The expansion foam (insulation foam) was used to seal the boundary:
 
 ![Expansion foam](img/7_expansion_foam.jpg)
 ![Expansion foam](img/7_expansion_foam2.jpg)
+
+## Mix the self-levelling compound
+
+After calculation, it was deemed that two bags of self-levelling compound were
+needed. The self-levelling compound dries quite fast so I mixed two bags beforehand:
+
+![Mixing levelling compound](img/8_mixing_levelling_compound.jpg)
+![Mixing levelling compound](img/8_mixing_levelling_compound2.jpg)
+
+You should definitely use a power tool to do the mixing. Be aware that your
+power tool should have enough power for the amount of material being mixed. The mixing paddle
+I bought was too large for my drill so I had to use a dedicated mixer
+
+![Mixing levelling compound](img/8_mixing_levelling_compound4.jpg)
+
+It is crucial to use the correct amount of water instructed on the package. The eventual
+consistency should resemble that of pea soup. You should scoop the corners of the bucket
+to make sure there are no lumps.
+
+![Mixing levelling compound](img/8_mixing_levelling_compound3.jpg)
+
+## Levelling the floor
+
+Pour the levelling compound evenly and use a trowel to spread it evenly.
+
+![Trowel](img/9_trowel.jpg)
+
+When the area is large, you might have to walk on the compound so some rubber boots
+can be helpful. Now, it is highly recommended to use a spiked roller to "activate"
+the surface. It removes trapped air bubbles and creates a smooth finish.
+
+![Trowel](img/9_levelling2.jpg)
+![Trowel](img/9_levelling.jpg)
+
+It dries overnight and we can start laying the floor after one day.
+
+![Trowel](img/9_levelling3.jpg)
+
+Use a spirit level to check for flatness. For a large area, get the longest one you can find.
+
+![Trowel](img/9_levelling5.webp)
+
+Some small imperfections, which we simply let go:
+
+![Trowel](img/9_levelling4.jpg)
