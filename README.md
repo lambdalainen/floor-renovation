@@ -14,25 +14,24 @@ process.
 
 ![Floor structure](img/0_initial_state2.jpg)
 
-There are four layers visible in this picture:
+There are four visible layers in this picture:
 1. Top layer: soft plastic
 2. Cork underlayment
 3. Levelling compound
 4. Concrete subfloor
 
-The cork underlayment is glued to the levelling compound (visible in the
-picture), which is a major source of pain in the subsequent process. Our plan
-is to:
+The cork underlayment is glued to the levelling compound, which is a major
+source of pain in the subsequent process. Our plan is to:
 1. Remove the top layer and the cork underlayment (since the damaged area
    already has these two layers removed)
-2. Level the ground
-3. Lay vinyl plank flooring
+2. Level the ground with new levelling compound
+3. Lay vinyl plank flooring and install new skirting board
 
 ## Asbestos check
 
 The house was built in the early 80s and there is a small probability that
-materials containing asbestos were used, e.g. in the glue. I thought it was a
-must to get this checked.
+asbestos were used in some of the building materials, e.g. the glue. I thought
+it was a must to get this checked.
 
 ![Asbestos](img/0_asbestos.png)
 
@@ -52,8 +51,9 @@ A pry bar might be useful here.
 
 ![Remove the skirting board](img/2_remove_skirting_board2.jpg)
 
-After the skirting board is removed ![Remove the skirting
-board](img/2_remove_skirting_board3.jpg)
+After the skirting board is removed
+
+![Remove the skirting board](img/2_remove_skirting_board3.jpg)
 
 ## Rip away the existing floor
 
@@ -126,10 +126,10 @@ Allow it to dry for two to four hours. After priming, the surface looks glossy.
 
 ![Primer](img/6_primer3.jpg)
 
-## Define the perimeter of the levelling area
+## Define the perimeter of the levelled area
 
 The self-levelling compound is very liquidy and it is necessary to completely
-seal the boundary of the levelling area so that it does not flow e.g. under the
+seal the boundary of the levelled area so that it does not flow e.g. under the
 existing cupboard.
 
 The expansion foam (insulation foam) was used to seal the boundary:
@@ -139,17 +139,21 @@ foam](img/7_expansion_foam2.jpg)
 
 ## Mix the self-levelling compound
 
-After calculation, it was deemed that two bags of self-levelling compound were
-needed. The self-levelling compound dries quite fast so I mixed two bags
-beforehand:
+After calculation, it was deemed that 40 kg (two bags) of self-levelling
+compound were needed. This was the second mistake. In fact, 60 kg would have
+been better. This is because when the levelling compound is spread too thin in
+some areas (approaching the 3mm lower limit stated on the package), it might
+create eventual unevenness.
+
+The self-levelling compound dries quite fast so I mixed two bags beforehand:
 
 ![Mixing levelling compound](img/8_mixing_levelling_compound.jpg) ![Mixing
 levelling compound](img/8_mixing_levelling_compound2.jpg)
 
 You should definitely use a power tool to do the mixing. Be aware that your
 power tool should have enough power for the amount of material being mixed. The
-mixing paddle I bought was too large for my drill so I had to use a dedicated
-mixer
+mixing paddle I bought was too large for my drill (mistake #3) so I had to get
+a dedicated mixer:
 
 ![Mixing levelling compound](img/8_mixing_levelling_compound4.jpg)
 
@@ -162,17 +166,22 @@ corners of the bucket to make sure there are no lumps.
 ## Levelling the floor
 
 Pour the levelling compound evenly and use a large trowel to spread it evenly.
+I didn't pour it evenly, so there were some eventually unflatness (mistake #4).
 
 ![Trowel](img/9_trowel.jpg)
 
 When the area is large, you might have to walk on the compound so some rubber
-boots can be helpful. Now, it is highly recommended to use a spiked roller to
-"activate" the surface. It removes trapped air bubbles and creates a smooth
-finish.
+boots can be helpful. I didn't, so it got messy (mistake #5). Now, it is highly
+recommended to use a spiked roller to "activate" the surface. It removes
+trapped air bubbles and creates a smooth finish. It also helps even out the
+levelling compound. You should attach the roller to a long stick so that you
+can roll over large areas without squatting. I didn't do so, which also
+contributed to the eventual unflatness (mistake #6).
 
 ![Trowel](img/9_levelling2.jpg) ![Trowel](img/9_levelling.jpg)
 
-It dries overnight and we can start laying the floor after one day.
+The levelling compound dries overnight and we can start laying the floor after
+24 hours.
 
 ![Trowel](img/9_levelling3.jpg)
 
@@ -184,6 +193,9 @@ you can find. I forgot to take a picture of this step so here is a stock photo:
 Some small imperfections, which we simply let go:
 
 ![Trowel](img/9_levelling4.jpg)
+
+I remedied some measured unflatness with a thin and soft underlayment material
+which can be seen in later pictures (blue sheets under the vapor barrier).
 
 ## Add the vapor barrier
 
@@ -208,25 +220,27 @@ distance between the seams of two adjacent rows, so you should follow that.
 
 Remember that when you finish one row, you can often use the leftover piece to
 start another row. However, never start or end a row with a very short piece. I
-made sure that all my pieces are at least 40cm long.
+made sure that all my pieces were at least 40cm long.
 
 ![Planning](img/11_planning.png)
 
 You might need to trim the door jamb to accomodate the new floor. This can be done
 with an oscillating multitool and a saw blade.
 
-![Planning](img/11_trim_door_jamb.png)
+![Planning](img/11_trim_door_jamb.jpg)
 
 ## Laying the vinyl planks
 
 Finally, we can start laying the vinyl planks. These are from Parador and made
-in Germany, costing roughly 40 EUR per square meter. They come with underlayment
-already attached on the back side, so no additional underlayment is needed.
+in Germany, costing roughly 40 EUR per square meter, which is on the expensive
+end. But the kitchen is small so the total cost is ok. They come with
+underlayment already attached on the back side, so no additional underlayment
+is needed.
 
 I started by installing a piece on a location that requires a special cut (done with
 a multitool).
 
-![Laying](img/11_special_cut.png)
+![Laying](img/11_special_cut.jpg)
 
 Then start from this row and extend it to the wall (normally you want to start
 from the wall so mine is a special case). We lay the planks in the direction of
@@ -235,34 +249,34 @@ sunlight.
 Spacer are inserted along the wall to leave an expansion gap for the floor
 under temperature variations.
 
-![Laying](img/11_spacer.png)
+![Laying](img/11_spacer.jpg)
 
 Use a mallet and a dedicated tapping block. The edge of the vinyl planks are delicate
-so one mustn't use too much force. Basically, "tap tap" instead of "knock knock".
+so one mustn't use excessive force. Basically, "tap tap" instead of "knock knock".
 
-![Laying](img/11_knock_knock.png)
+![Laying](img/11_knock_knock.jpg)
 
 Use a pull bar to tap on the edge
 
-![Laying](img/11_knock_edge.png)
+![Laying](img/11_knock_edge.jpg)
 
 Almost done!
 
-![Laying](img/11_almost_done.png)
+![Laying](img/11_almost_done.jpg)
 
-## Install new skirting boards
+## Install new skirting board
 
-The Parador skirting boards comes with mounting clips. These should be nailed to
+The Parador skirting board comes with mounting clips. These should be nailed to
 the wall but I simply glued them with a glue gun.
 
-![Laying](img/12_skirting_board.png)
+![Laying](img/12_skirting_board.jpg)
 
-Then clip on the skirting boards:
+Then clip on the skirting board:
 
-![Laying](img/12_skirting_board2.png)
-![Laying](img/12_skirting_board3.png)
+![Laying](img/12_skirting_board2.jpg)
+![Laying](img/12_skirting_board3.jpg)
 
 ## Finished floor
 
-![Laying](img/13_finished_floor.png)
-![Laying](img/13_finished_floor2.png)
+![Laying](img/13_finished_floor.jpg)
+![Laying](img/13_finished_floor2.jpg)
