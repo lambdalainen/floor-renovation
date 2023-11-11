@@ -156,7 +156,7 @@ to make sure there are no lumps.
 
 ## Levelling the floor
 
-Pour the levelling compound evenly and use a trowel to spread it evenly.
+Pour the levelling compound evenly and use a large trowel to spread it evenly.
 
 ![Trowel](img/9_trowel.jpg)
 
@@ -178,3 +178,17 @@ Use a spirit level to check for flatness. For a large area, get the longest one 
 Some small imperfections, which we simply let go:
 
 ![Trowel](img/9_levelling4.jpg)
+
+## Add the vapor barrier
+
+Before laying the vinyl planks, we must add a layer of vapor barrier.
+
+![Vapor barrier](img/10_vapor_barrier.jpg)
+
+Two sheets should have an overlap of about 40cm and then sealed with vapor barrier tape.
+
+![Vapor barrier](img/10_tape.jpg)
+
+## Lay the vinyl planks
+
+A dedicated vinyl cutter is highly recommended.
