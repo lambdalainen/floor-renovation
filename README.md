@@ -9,6 +9,25 @@ I decided to redo the floor myself. Below are some notes about the process. This
 my first time building a floor so mistakes were inevitably made. I'll highlight
 the mistakes I made and some other important aspects during the process.
 
+## Floor structure
+
+![Floor structure](img/0_initial_state2.jpg)
+
+There are four layers visible in this picture:
+1. Top layer: soft plastic
+2. Cork underlayment
+3. Levelling compound
+4. Concrete subfloor
+
+The cork underlayment is glued to the levelling compound, which is a major source
+of pain in the subsequent process.
+
+Our plan is to
+1. Remove the top layer and the cork underlayment (since the damaged area already has
+these two layers removed)
+2. Level the ground
+3. Lay vinyl plank flooring
+
 ## Isolate the work area
 
 It was anticipated that dust will be generated during the process, so it was a good
@@ -68,7 +87,7 @@ And the result is messy:
 ![Remove cork](img/4_remove_cork5.jpg)
 ![Remove cork](img/4_remove_cork6.jpg)
 
-## Grind the floor
+## Remove the residue glue
 
 There are different ways to remove the residue glue. The easiest way is to rent a floor
 grinder:
@@ -81,3 +100,22 @@ to be used together with the floor grinder, otherwise, it gets very very dusty!
 The result after grinding:
 
 ![Remove cork](img/5_floor_grinder2.jpg)
+
+Now we can start levelling the ground.
+
+## Prime the surface
+
+Before levelling the ground, we must prime the surface so that the new self levelling compound
+adheres to the existing surface.
+
+![Primer](img/6_primer.jpg)
+
+The surface must be very clean. The primer is mixed with water in `1:3` ratio and applied to the
+surface with a brush:
+
+![Primer](img/6_primer2.jpg)
+
+Allow it to dry for two to four hours. After priming, the surface looks glossy.
+
+![Primer](img/6_primer3.jpg)
+
